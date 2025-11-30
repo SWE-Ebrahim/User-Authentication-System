@@ -1,0 +1,43 @@
+import { 
+  Mail, 
+  Lock, 
+  User, 
+  Key, 
+  Loader2, 
+  LogOut, 
+  CheckCircle, 
+  AlertCircle, 
+  Check, 
+  X, 
+  Shield, 
+  Settings, 
+  Bell, 
+  HelpCircle, 
+  ShieldCheck,
+  Zap,
+  Users,
+  Globe,
+  ArrowLeft
+} from 'lucide-react';
+
+export const Icons = {
+  mail: Mail,
+  lock: Lock,
+  user: User,
+  key: Key,
+  spinner: Loader2,
+  logOut: LogOut,
+  checkCircle: CheckCircle,
+  alertCircle: AlertCircle,
+  check: Check,
+  x: X,
+  shield: Shield,
+  settings: Settings,
+  bell: Bell,
+  help: HelpCircle,
+  shieldCheck: ShieldCheck,
+  zap: Zap,
+  users: Users,
+  globe: Globe,
+  arrowLeft: ArrowLeft
+};
