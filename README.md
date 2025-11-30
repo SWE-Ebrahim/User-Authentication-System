@@ -166,6 +166,13 @@ npm run build
 # Serve the dist folder with your preferred web server
 ```
 
+## Screen Shots
+[Home Page](./Documentation/HomePage.png)
+[Login Page](./Documentation/LoginPage.png)
+[Signup Page](./Documentation/SignupPage.png)
+[Forgot Password Page](./Documentation/ForgotPassPage.png)
+[OTP Page](./Documentation/OTPExample.png)
+
 ## Future Enhancements
 
 - Two-factor authentication (2FA)
@@ -179,9 +186,14 @@ npm run build
 - User profile management
 - Dashboard analytics
 
-## Authors
+## Author
 
-[Your Name]
+Ebrahim Almahbosh - ETechStudio
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ebrahim_techstudio)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@etechstudio)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@EbrahimTechStudio)
+[![Upwork](https://img.shields.io/badge/Upwork-%235DCB8D.svg?logo=Upwork&logoColor=white)](https://upwork.com/freelancers/~01f9d0f7a460204c9d?mp_source=share)
 
 ## License
 
